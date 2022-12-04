@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Git79806
-- 👀 I’m interested in Reverse Engineering 
+- 👀 I’m interested in Reverse Engineering And Networking 
 - 🌱 I’m currently learning Carbon
-- 
-
+- ✍️ I know Basic Ethical Hacking 
 
 <!---
 Git79806/Git79806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
