@@ -2,6 +2,7 @@
 - 👀 I’m interested in Reverse Engineering And Networking 
 - 🌱 I’m currently learning Carbon
 - ✍️ I know Basic Ethical Hacking 
+- 🤝 I know Python Javascript And HTML Also
 
 <!---
 Git79806/Git79806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
