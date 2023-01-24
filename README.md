@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Git79806
 - 👀 I’m interested in Reverse Engineering And Networking 
 - 🌱 I’m currently learning Rust
-- ✍️ I know Basic Ethical Hacking 
 - 🤝 I know Python Javascript And HTML
 
 <!---
