@@ -2,9 +2,9 @@
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="12px" align="left"/>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<img src="./assets/animated-flame-01.gif" width="12px" align="right"/>
 
 <p align="center"> 
 
