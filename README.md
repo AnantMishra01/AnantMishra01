@@ -4,7 +4,6 @@
 
 <img src="./assets/animated-flame-01.gif" width="12px" align="left"/>
 
-<img src="./assets/animated-flame-01.gif" width="12px" align="right"/>
 
 <p align="center"> 
 
