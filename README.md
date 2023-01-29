@@ -30,7 +30,7 @@
 
 * ☕ Interest: Science, Math, Hacking, and Coding. <br><br><br>
 
-* :octocat: Hobbies: Sleeping, Reading and Reddit. <br><br>
+* :octocat: Hobbies: Sleeping, Reading and Coding. <br><br>
 
 <h2></h2>
 
