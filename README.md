@@ -13,24 +13,14 @@
 
 </p>
 
-<h2></h2>
-
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
-
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
 * 👨‍💻 I'm Anant(@AnantMishra01)👋, a school student, I'm currently doing my +2 study with science stream in India. <br><br><br>
-
 * 🌳 I’m currently learning React And Nextjs <br><br><br>
-
 * 🐾 I’m looking to learn more here <br><br><br>
-
 * 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
-
 * ☕ Interest: Science, Math, Hacking, and Coding. <br><br><br>
-
 * :octocat: Hobbies: Sleeping, Reading and Coding. <br><br>
-
 <h2></h2>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
