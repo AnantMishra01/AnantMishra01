@@ -19,7 +19,7 @@
 * 🌳 I’m currently learning React And Nextjs <br><br><br>
 * 🐾 I’m looking to learn more here <br><br><br>
 * 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
-* ☕ Interest: Science, Math, Hacking, and Coding. <br><br><br>
+* ☕ Interest: Quantum Computing, Networking, Hacking, and Coding. <br><br><br>
 * :octocat: Hobbies: Sleeping, Reading and Coding. <br><br>
 <h2></h2>
 
