@@ -71,9 +71,9 @@
 
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=AnantMishra01&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=ABCD299wp&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
 
-  <img src="https://streak-stats.demolab.com?user=AnantMishra01&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://streak-stats.demolab.com?user=ABCD299wp&theme=radical" height="150" alt="streaks graph" />
 
 </div> 
 
