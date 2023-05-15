@@ -9,14 +9,14 @@
 
   <b>Profile Views</b><br>
 
-  <img src="https://profile-counter.glitch.me/ABCD299wp/count.svg" />
+  <img src="https://profile-counter.glitch.me/AnantMishra01/count.svg" />
 
 </p>
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
 * 👨‍💻 I'm Anant(@AnantMishra01)👋, a school student, I'm currently doing my +2 study with science stream in India. <br><br><br>
-* 🌳 I’m currently learning React And Nextjs <br><br><br>
+* 🌳 I’m currently learning React<br><br><br>
 * 🐾 I’m looking to learn more here <br><br><br>
 * 🌊 2022 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
 * ☕ Interest: Quantum Computing, Networking, Hacking, and Coding. <br><br><br>
@@ -71,9 +71,9 @@
 
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ABCD299wp&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnantMishra01 &theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
 
-  <img src="https://streak-stats.demolab.com?user=ABCD299wp&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://streak-stats.demolab.com?user=AnantMishra01&theme=radical" height="150" alt="streaks graph" />
 
 </div> 
 
