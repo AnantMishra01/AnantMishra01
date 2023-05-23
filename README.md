@@ -73,6 +73,12 @@
 
   <img src="https://github-profile-trophy.vercel.app/?username=AnantMishra01&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
 
+  <a href="https://github.com/AnantMishra01">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnantMishra01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+  <!--- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantMishra01=&layout=compact&langs_count=16&theme=dark"/> -->
+    
   <img src="https://streak-stats.demolab.com?user=AnantMishra01&theme=radical" height="150" alt="streaks graph" />
 
 </div> 
