@@ -75,7 +75,7 @@
 
   <a href="https://github.com/AnantMishra01">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnantMishra01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api?username=AnantMishra01&count_private=true&random=23423ads&hide_border=true&theme=night_vibe"/>
 
   <!--- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantMishra01=&layout=compact&langs_count=16&theme=dark"/> -->
     
