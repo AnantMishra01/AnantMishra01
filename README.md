@@ -15,10 +15,10 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Anant(@AnantMishra01)👋, a school student, I'm currently doing my +2 study with science stream in India. <br><br><br>
-* 🌳 I’m currently learning Docker<br><br><br>
-* 🐾 I’m looking to learn more here <br><br><br>
-* ☕ Interest: Penetration Testing, Networking, Reverse Engineering, and Coding. <br><br><br>
+* 👨‍💻 I'm Anant(@AnantMishra01)👋, a school student, I'm currently doing my +2 study with science stream in India. <br><br>
+* 🌳 I’m currently learning Docker<br><br>
+* 🐾 I’m looking to learn more here <br><br>
+* ☕ Interest: Penetration Testing, Networking, Reverse Engineering, and Coding. <br><br>
 * :octocat: Hobbies: Sleeping, Reading and Coding. <br><br>
 <h2></h2>
 
