@@ -13,12 +13,12 @@
 
 </p>
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about Programming! </h2><br>
+## About Me
 
-* 👨‍💻 I'm Anant(@AnantMishra01)👋, a school student, I'm currently doing my +2 study with science stream in India. <br><br>
-* 🌳 I’m currently learning Docker<br><br>
-* 🐾 I’m looking to learn more here <br><br>
-* ☕ Interest: Contributing in open source<br><br>
+* 👨‍💻 I'm Anant(@AnantMishra01)👋, a school student, I'm currently doing my +2 study with science stream in India. <br>
+* 🌳 I’m currently learning Docker<br>
+* 🐾 I’m looking to learn more here <br>
+* ☕ Interest: Contributing in open source<br>
 <h2></h2>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
