@@ -15,10 +15,10 @@
 
 ## About Me
 
-* 👨‍💻 I'm Anant(@AnantMishra01)👋, a school student, I'm currently doing my +2 study with science stream in India. <br>
-* 🌳 I’m currently learning Docker<br>
-* 🐾 I’m looking to learn more here <br>
-* ☕ Interest: Contributing in open source<br>
+- 👋 Hey, I'm Anant, a high school student from India.
+- 👨‍💻 I'm passionate about programming and self-taught in various programming languages and technologies.
+- 🌱 Currently expanding my knowledge and skills in open source contributions.
+- ☕ Always eager to learn and explore new things in the world of technology.
 <h2></h2>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
